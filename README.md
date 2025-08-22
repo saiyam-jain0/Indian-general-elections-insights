@@ -66,35 +66,46 @@ cd Indian-general-elections-insights
 
 ## Screenshots & Dashboard Walkthrough (Lucknow Example)
 
-### 1. **Landing Page**
-*Project Navigation & Dashboard Selection*
+### 1. Landing Page
+Navigate easily between different dashboard views.  
+![Landing Page](images/Landing%20Page.png)
 
-![Landing Page](attached_image:3)
+---
 
-### 2. **Overview Analysis Dashboard**
-*Distribution of seats between NDA, I.N.D.I.A, and Others; party and alliance breakdown*
+### 2. Overview Analysis Dashboard  
+NDA, I.N.D.I.A, and Others alliance seat distributions and party summary.  
+![Overview Analysis](images/Overview%20Analysis.png)
 
-![Overview Analysis](attached_image:1)
+---
 
-### 3. **State Demographic Analysis**
-*Mapping seats by state, winning candidates, party-wise distributions*
+### 3. State Demographic Analysis  
+Visualizes seats, winning candidates, and party-wise performances across states.  
+![State Demographic Analysis](images/State%20Demographic%20Analysis.png)
 
-![State Demographic Analysis](Screenshot-28.jpg)
+---
 
-### 4. **Political Landscape by State (Uttar Pradesh focused)**
-*State-wise seat distribution, alliances, and party-wise seat shares*
+### 4. Political Landscape by State (Uttar Pradesh Example)  
+Explore party seat shares and alliance performance in Uttar Pradesh.  
+![Political Landscape by State](images/Political%20Landscape%20by%20State.png)
 
-![Political Landscape by State](Screenshot-29.jpg)
+---
 
-### 5. **Constituency Analysis (Lucknow Example)**
-*Total votes, EVM, postal votes, winning/runner-up details for Lucknow*
+### 5. Constituency Analysis (Lucknow)  
+Key statistics including total votes, EVM vs postal votes, winners and runners-up.  
+![Constituency Analysis](images/Constituency%20Analysis.png)
 
-![Constituency Analysis](Screenshot-30.jpg)
+---
 
-### 6. **Details Grid**
-*Full data table, sortable and filterable for all constituencies and candidates*
+### 6. Details Grid  
+Comprehensive sortable and filterable data table of electoral results.  
+![Details Grid](images/Details%20Grid.png)
 
-![Details Grid](Screenshot-31.jpg)
+---
+
+### 7. ERD Diagram  
+Entity Relationship Diagram illustrating database structure and relationships.  
+![ERD Diagram](images/ERD.png)
+
 
 ##  Key Features
 
