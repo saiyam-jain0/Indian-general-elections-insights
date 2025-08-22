@@ -5,32 +5,7 @@
 **Indian General Elections Insights** is a comprehensive Power BI dashboard that visualizes, analyzes, and presents data-driven insights from the 2024 Indian General Elections. Designed for political analysts, data enthusiasts, and students, this project enables granular exploration from national to constituency levels, with rich visual summaries and interactive interface.
 
 
-## Folder & Repository Structure
-```text
-Indian-general-elections-insights/
-│
-├── raw data/ # CSV datasets: constituencies, parties, states, results
-│ ├── constituencywise_details.csv
-│ ├── constituencywise_results.csv
-│ ├── partywise_results.csv
-│ ├── states.csv
-│ └── statewise_results.csv
-│
-├── elements/ # Visual assets and icons
-│ ├── party logos/ # Individual logos for 35+ parties
-│ ├── EVM.png, Flag_of_India.png, Modi.png, ...
-│
-├── images/ # Reference images/diagrams
-│ └── ERD.png # Entity Relationship Diagram
-│
-├── Indian General Elections.sql # SQL scripts for data import & analysis
-├── Party Alliance DAX.txt # DAX formulas for Power BI
-├── power bi project.pbix # Main Power BI dashboard
-├── LICENSE # MIT license
-└── README.md # Project documentation
-```
-
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Power BI:** Visualization, analysis, dashboard creation  
 - **SQL Server:** ETL, data wrangling, query logic  
@@ -122,6 +97,30 @@ Entity Relationship Diagram illustrating database structure and relationships.
 - **SQL queries for:** Seat counts, party wins, alliance breakout, vote margin calculation, EVM/postal vote segmentation, winner/runner-up logic.
 - **DAX formulas:** Mapping parties to alliances (NDA, I.N.D.I.A., Others) for fast analysis in Power BI visuals.
 
+## Folder & Repository Structure
+```text
+Indian-general-elections-insights/
+│
+├── raw data/ # CSV datasets: constituencies, parties, states, results
+│ ├── constituencywise_details.csv
+│ ├── constituencywise_results.csv
+│ ├── partywise_results.csv
+│ ├── states.csv
+│ └── statewise_results.csv
+│
+├── elements/ # Visual assets and icons
+│ ├── party logos/ # Individual logos for 35+ parties
+│ ├── EVM.png, Flag_of_India.png, Modi.png, ...
+│
+├── images/ # Reference images/diagrams
+│ └── ERD.png # Entity Relationship Diagram
+│
+├── Indian General Elections.sql # SQL scripts for data import & analysis
+├── Party Alliance DAX.txt # DAX formulas for Power BI
+├── power bi project.pbix # Main Power BI dashboard
+├── LICENSE # MIT license
+└── README.md # Project documentation
+```
 
 ## About the Author
 
